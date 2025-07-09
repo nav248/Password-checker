@@ -16,13 +16,13 @@ Features :
 
 🛠️ Technologies Used:
 
-Python-Core programming language for logic
+1.Python - Core programming language for logic
 
-Tkinter-	GUI toolkit for building the interface
+2.Tkinter -	GUI toolkit for building the interface
 
-Regex (re)-	Used to validate and pattern-match password structure
+3.Regex (re) -	Used to validate and pattern-match password structure
 
-NLTK -(optional)	Used to identify dictionary-based (guessable) words in the password
+4.NLTK - (optional)	Used to identify dictionary-based (guessable) words in the password
 
-File Handling-	(Optional) Save password strength reports
+5.File Handling -	(Optional) Save password strength reports
 
